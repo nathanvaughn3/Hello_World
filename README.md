@@ -5,10 +5,11 @@
     <head>
         <title>Hello World</title>
     </head>
+    
     <body>
         <p>This is an experimental sandbox for fun and learning.</p>
     
-    <style type="text/css" media="screen">
+    <style>
         body {background-color:powderblue;}
         head {color:white; font-family:verdana;font-size:400%;}
         title {font-size:150%;}
