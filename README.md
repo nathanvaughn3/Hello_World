@@ -2,7 +2,7 @@
 <html>
     <h1> style="color:white; background:blue;">Header Practice</h2>
     <head>
-        <title>Hello World</title>
+        Hello World
     </head>
     
     <body>    
