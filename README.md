@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-    <h1 style="color:white; background:blue;">Header Practice</h2>
+    <h1> style="color:white; background:blue;">Header Practice</h2>
     <head>
         <title>Hello World</title>
     </head>
     
     <body>    
-         <a href= www.priceindustries.com/beams> Price Industries </a>
+         <a> href= www.priceindustries.com/beams> Price Industries </a>
          <p>This is an experimental sandbox for fun and learning.</p>
     </body> 
     
