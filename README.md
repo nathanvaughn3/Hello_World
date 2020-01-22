@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <h1 style="color:white; background:blue;">Header Practice</h1>
-    <h4
+    <h4>
         Hello World
     </h4>
     
-    <body>    
+    <body style="color:green;background:white;>    
          <a href= www.priceindustries.com/beams> Price Industries </a>
          <p>This is an experimental sandbox for fun and learning.</p>
     </body> 
