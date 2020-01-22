@@ -5,7 +5,7 @@
         Hello World
     </h4>
     
-    <body style="color:green;background:white;>    
+    <body style="color:green;background:white;">    
          <a href= www.priceindustries.com/beams> Price Industries </a>
          <p>This is an experimental sandbox for fun and learning.</p>
     </body> 
