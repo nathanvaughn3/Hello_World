@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <h1> style="color:white; background:blue;">Header Practice</h2>
-    <head>
+    <h1 style="color:white; background:blue;">Header Practice</h2>
+    <h4
         Hello World
-    </head>
+    </h4>
     
     <body>    
          <a> href= www.priceindustries.com/beams> Price Industries </a>
