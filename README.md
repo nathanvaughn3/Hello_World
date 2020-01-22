@@ -7,4 +7,6 @@
     <body>
         <p>This is an experimental sandbox for fun and learning.</p>
     </body>
+    <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
 </html>
+
