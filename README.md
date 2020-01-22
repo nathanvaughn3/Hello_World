@@ -10,10 +10,13 @@
     </body>
     
     <style type="text/css" media="screen">
+        body {background-color:powderblue;}
+        head {color:white; font-family:verdana;font-size:400%;}
+        title {font-size:150%;}
+        
 
-/* Add style rules here */
 
-</style>
+    </style>
 
     <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
 
