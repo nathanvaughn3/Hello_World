@@ -8,7 +8,7 @@
     
     <body>
         <p>This is an experimental sandbox for fun and learning.</p>
-    
+     </body>
     <style>
         body {background-color:powderblue;}
         head {color:white; font-family:verdana;font-size:400%;}
@@ -17,7 +17,7 @@
 
 
     </style>
-    </body>
+   
     <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
 
 </html>
