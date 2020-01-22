@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <h2 style="color:red; background:black;">This is a red heading with a black background</h2>
+    <h1 style="color:red; background:black;">This is a red heading with a black background</h2>
     <head>
         <title>Hello World</title>
     </head>
