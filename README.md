@@ -6,7 +6,7 @@
     </h4>
     
     <body>    
-         <a> href= www.priceindustries.com/beams> Price Industries </a>
+         <a href= www.priceindustries.com/beams> Price Industries </a>
          <p>This is an experimental sandbox for fun and learning.</p>
     </body> 
     
