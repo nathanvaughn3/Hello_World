@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <h1 style="color:white; background:blue;">Header Practice</h2>
+    <h1 style="color:white; background:blue;">Header Practice</h1>
     <h4
         Hello World
     </h4>
