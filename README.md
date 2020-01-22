@@ -1,4 +1,3 @@
-# Hello_World
 <!DOCTYPE html>
 <html>
     <h2 style="color:red; background:black;">This is a red heading with a black background</h2>
@@ -7,9 +6,10 @@
     </head>
     
     <body>    
-    <style>
-        <a href= www.priceindustries.com/beams> Price Industries </a>
-        <p>This is an experimental sandbox for fun and learning.</p>
+         <a href= www.priceindustries.com/beams> Price Industries </a>
+         <p>This is an experimental sandbox for fun and learning.</p>
+         
+    <style>     
         body {background-color:powderblue;}
         head {color:white; font-family:verdana;font-size:400%;}
         title {font-size:150%;}
